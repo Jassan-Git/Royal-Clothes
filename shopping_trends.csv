@@ -1,0 +1,41 @@
+Row Labels,Sum of Purchase Amount (USD),Count of Customer ID,,Row Labels,Sum of Purchase Amount (USD),Count of Customer ID
+18-28,"$48,406",802,,Backpack,"$8,636",143
+29-49,"$91,265",1539,,Belt,"$9,635",161
+50-70,"$93,410",1559,,Blouse,"$10,410",171
+Grand Total,"$233,081",3900,,Boots,"$9,018",144
+,,,,Coat,"$9,275",161
+Row Labels,Sum of Purchase Amount (USD),Count of Customer ID,,Dress,"$10,320",166
+Accessories,"$74,200",1240,,Gloves,"$8,477",140
+Clothing,"$104,264",1737,,Handbag,"$8,857",153
+Footwear,"$36,093",599,,Hat,"$9,375",154
+Outerwear,"$18,524",324,,Hoodie,"$8,767",151
+Grand Total,"$233,081",3900,,Jacket,"$9,249",163
+,,,,Jeans,"$7,548",124
+Row Labels,Sum of Purchase Amount (USD),Count of Customer ID,,Jewelry,"$10,010",171
+Female,"$75,191",1248,,Pants,"$10,090",171
+Male,"$157,890",2652,,Sandals,"$9,200",160
+Grand Total,"$233,081",3900,,Scarf,"$9,561",157
+,,,,Shirt,"$10,332",169
+Row Labels,Sum of Purchase Amount (USD),Count of Customer ID,,Shoes,"$9,240",150
+Fall,"$60,018",975,,Shorts,"$9,433",157
+Spring,"$58,679",999,,Skirt,"$9,402",158
+Summer,"$55,777",955,,Sneakers,"$8,635",145
+Winter,"$58,607",971,,Socks,"$9,252",159
+Grand Total,"$233,081",3900,,Sunglasses,"$9,649",161
+,,,,Sweater,"$9,462",164
+Row Labels,Sum of Purchase Amount (USD),,,T-shirt,"$9,248",147
+California,"$5,605",,,Grand Total,"$233,081",3900
+Idaho,"$5,587",,,,,
+Illinois,"$5,617",,Row Labels,Count of Customer ID,,
+Montana,"$5,784",,2-Day Shipping,627,,
+Nevada,"$5,514",,Express,646,,
+Grand Total,"$28,107",,Free Shipping,675,,
+,,,Next Day Air,648,,
+Row Labels,Sum of Purchase Amount (USD),,Standard,654,,
+Bank Transfer,"$37,123",,Store Pickup,650,,
+Cash,"$38,833",,Grand Total,3900,,
+Credit Card,"$42,567",,,,,
+Debit Card,"$37,118",,,,,
+PayPal,"$37,449",,,,,
+Venmo,"$39,991",,,,,
+Grand Total,"$233,081",,,,,
